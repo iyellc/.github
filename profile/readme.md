@@ -1,6 +1,12 @@
-![Logo](https://avatars.githubusercontent.com/u/72132868?s=200&v=4)
-## IYE Software
+<div align="center">
+	<image src="https://github.com/iyellc/.github/blob/main/profile/IYELogo.png?raw=true" alt="Niy LOGO">
+</div>
 
-IYE Software is a startup doing it's code NOT open source at the moment. We will publish our code asap.
+## Go Ahead!
+You can be part of our developing games and systems, go ahead commit something! Before you start there is our rules:
+* [Code Of Conduct](https://github.com/iyellc/.github/blob/main/docs/CODE_OF_CONDUCT.md)
+* [Contributing](https://github.com/iyellc/.github/blob/main/docs/CONTRIBUTING.md) 
+* [Styling Guide](https://github.com/iyellc/styling/)
 
-IYE ❤ Coding
+<hr>
+We take our <a href="https://github.com/iyellc/.github/blob/main/docs/CODE_OF_CONDUCT.md">Code Of Conduct</a> serious, please read it before contributing.
